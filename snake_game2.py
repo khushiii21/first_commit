@@ -1,0 +1,5 @@
+wn.listen()
+wn.onkeypress(goup, "w")
+wn.onkeypress(godown, "s")
+wn.onkeypress(goleft, "a")
+wn.onkeypress(goright, "d")
